@@ -1,6 +1,6 @@
-# AI/ML Projects Repository
+# AAI_500 Group 1 Project Repository
 
-Welcome to my repository! This repo contains a collection of my AI and machine learning projects developed as part of my studies in Applied AI.
+Welcome to our repository! This repo contains a collection of our AI and machine learning projects developed as part of our studies in Applied AI.
 
 
 ## Project Overview

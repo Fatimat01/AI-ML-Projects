@@ -4,6 +4,7 @@
 
 This project focuses on performing **Exploratory Data Analysis (EDA)** using the **Online Retail** dataset sourced from the UCI Machine Learning Repository. The dataset contains detailed transactional information from online retail store between December 2010 and December 2011, including invoice numbers, product descriptions, quantities sold, unit prices, and customer data.
 
+
 ## Objectives
 
 The primary goal of this project is to uncover meaningful insights into sales patterns and trends, such as:
@@ -33,3 +34,7 @@ The dataset is sourced from the [UCI Machine Learning Repository](https://archiv
 
 ## Future Work
 
+## Project Team / Contributor
+
+- Tommy Poole
+- Fatimat Atanda

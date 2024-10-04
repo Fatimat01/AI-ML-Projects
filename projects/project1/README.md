@@ -21,8 +21,9 @@ The dataset is sourced from the [UCI Machine Learning Repository](https://archiv
 
 ## Analysis
 
-1. 
-2. 
+1. Sales Analysis
+2. Time-series Analysis
+3. RFM Analysis
 
 ## Tools & Libraries Used
 

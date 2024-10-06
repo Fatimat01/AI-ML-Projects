@@ -25,13 +25,19 @@ The dataset is sourced from the [UCI Machine Learning Repository](https://archiv
 2. Time-series Analysis
 3. RFM Analysis
 
+## Model Selection
+1. Holt-Winters Exponential Smoothing
+2. Clustering (Hierarchical)
+
 ## Tools & Libraries Used
 
 - **Python**: Data analysis and visualization
 - **Pandas**: Data manipulation and analysis
 - **NumPy**: Numerical operations and data handling
 - **Matplotlib**: Visualization
-- 
+- **Statsmodels**: Prediction
+- **Sklearn**: Prediction
+- **Scipy**: Statical analysis
 
 ## Future Work
 
